@@ -1,5 +1,6 @@
 # Unit-6-Assignment-Whats-the-Weather-Like
 
+## Requirements
 Create a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, you'll be utilizing python libraries such as [Citipy](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and a little common sense to create a representative model of weather across world cities.
 
 
