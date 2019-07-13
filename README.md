@@ -16,7 +16,9 @@ Other Project Requirements:
 * Include a print log of each city as it's being processed with the city number and city name.
 * Save both a CSV of all data retrieved and png images for each scatter plot.
 
-Pointers on Output:
+
+
+##Pointers on Output:
 * List of Cities is saved as a CSV file (cities.csv) under the folder 'output_data'.
 * All the Scatter Plots are saved under the folder 'output_data'
 
