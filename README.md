@@ -4,10 +4,10 @@ Create a Python script to visualize the weather of 500+ cities across the world 
 
 
 Create the below Scatter Plots:
-* **Temperature (F) vs. Latitude
-* **Humidity (%) vs. Latitude
-* **Cloudiness (%) vs. Latitude
-* **Wind Speed (mph) vs. Latitude
+* Temperature (F) vs. Latitude
+* Humidity (%) vs. Latitude
+* Cloudiness (%) vs. Latitude
+* Wind Speed (mph) vs. Latitude
 
 
 Other Project Requirements:
