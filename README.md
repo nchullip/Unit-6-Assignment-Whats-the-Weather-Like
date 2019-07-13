@@ -21,5 +21,5 @@ Other Project Requirements:
 
 ## Pointers on Output:
 * List of Cities is saved as a CSV file (cities.csv) under the folder 'output_data'.
-* All the Scatter Plots are saved under the folder 'output_data'
+* All the Scatter Plots are saved as PNG file under the folder 'output_data'
 
